@@ -59,8 +59,7 @@ export default function Footer() {
         </div>
         
         <div className="border-t border-gray-700 pt-8 text-center text-sm text-gray-400">
-          <p className="mb-2">{t.footer.copyright}</p>
-          <p>{t.footer.icp}</p>
+          <p>{t.footer.copyright}</p>
         </div>
       </div>
     </footer>
